@@ -12,15 +12,11 @@ Prerequisites:
 Running the tests:
 Assignment # 1:
 
-To run the tests associated with this assignment, please run java project (Palindrome.java) file located at the following location in the project:
-
-/dxInterviewAssessment/src/main/java/com/dx/java/Palindrome.java
+To run the tests associated with this assignment, please run java project (Palindrome.java)file.
 
 Assignment # 2:
 
-To run these tests, please run TestNG project (TestNG.java file) located at the following location in the project:
-
-/dxInterviewAssessment/src/test/java/com/dx/testCase/TestNg.java
+To run these tests, please run TestNG project (TestNG.java)file.
 
 Built With:
 * TestNG - The framework used
